@@ -37,7 +37,7 @@ SecureScorecard performs automated external security assessments on any domain. 
 | Plan | Price | Features |
 |------|-------|----------|
 | Basic | Free | 15+ security checks, score & grade |
-| Full Report | $49 one-time | Everything + PDF report |
+| Full Report | $49 one-time | Everything + PDF report/Remediation Steps |
 | Pro | $99/mo | Unlimited scans, dashboard, CSV export |
 | White Label | $199/mo | Custom branding, resell to clients |
 
