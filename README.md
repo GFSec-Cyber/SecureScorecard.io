@@ -61,7 +61,7 @@ SecureScorecard performs automated external security assessments on any domain. 
 
 ## Background
 
-Built by [Garrett Fegley](https://linkedin.com/in/garrettfegley) — CompTIA Security+ certified, cybersecurity bootcamp graduate, and penetration tester. SecureScorecard was built to make professional security auditing accessible to small businesses who can't afford enterprise tools.
+Built by [GFSec](https://linkedin.com/in/garrettfegley) — CompTIA Security+ certified, cybersecurity bootcamp graduate, and penetration tester. SecureScorecard was built to make professional security auditing accessible to small businesses who can't afford enterprise tools.
 
 ---
 
